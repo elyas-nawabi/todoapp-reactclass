@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.task{
+  background-color: #ffbc00;
+  padding:20px;
+  width:20%;
+  margin:20px;
+}
+.reminder{
+  border: 5px solid blue;
+}
+form{
+  background-color: red;
+}

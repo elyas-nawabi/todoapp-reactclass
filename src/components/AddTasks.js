@@ -1,4 +1,5 @@
 import React,{useState} from 'react';
+import './AddTask.css'
 
 function AddTasks({onAdd}) {
     const [text, setText] = useState('');
